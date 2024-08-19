@@ -119,4 +119,4 @@ Here are some screenshots of the application:
 ![Admin Dashboard](screenshots/admin-cars.png)
 ![Admin Dashboard](screenshots/admin-rentals.png)
 ![Admin Dashboard](screenshots/admin-return.png)
-*Admin Dashboard showing current rentals*
+*Admin Dashboard*
